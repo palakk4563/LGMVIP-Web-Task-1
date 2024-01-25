@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-do List</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="utilis.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="todo-app">
+        <div class="title">
+          <h2>To-Do List <img src="images/icon.png" /></h2>
+        </div>
+        <hr />
+        <div class="row">
+          <input type="text" id="input-box" placeholder="Add Items" />
+          <button onclick="addTask()">Add</button>
+        </div>
+        <ul id="list-container">
+          <!-- <li>add task 1</li>
+          <li>add task 2</li>
+          <li>add task 3</li> -->
+        </ul>
+        <div class="button btn_all_clear">
+          <button>All Clear</button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
