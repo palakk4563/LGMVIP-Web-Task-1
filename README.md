@@ -24,5 +24,6 @@ A simple To-Do List Web App using HTML, CSS, Javascript
 </ul>
 
 ## Deployment :
-<p>Click on image to visit To-Do List Web App</p><br>
-<a href=" https://palakk4563.github.io/LGMVIP-Web-Task-1/"><img src="![To-Do List](https://github.com/palakk4563/LGMVIP-Web-Task-1/assets/116274445/6639635a-0fb0-4989-87b5-2c061418913a)"></a> 
+<p>Click on image to visit To-Do List Web App</p>
+<a href="https://palakk4563.github.io/LGMVIP-Web-Task-1/"><img src="https://github.com/palakk4563/LGMVIP-Web-Task-1/assets/116274445/eeac58c3-eb87-4d9a-abd8-ae1c97989dff"></a>
+
