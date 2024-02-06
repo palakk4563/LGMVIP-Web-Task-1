@@ -10,7 +10,6 @@
     padding: 10px;
 }
 .todo-app{
-width:100%;
 max-width: 540px;
 max-height: 100vh;
 background: #fff;
@@ -48,7 +47,8 @@ border-radius: 10px;
     
 }
 input{
-    flex: 1;
+/*     flex: 1; */
+    width: 60%;
     border: none;
     outline: none;
     background: transparent;
